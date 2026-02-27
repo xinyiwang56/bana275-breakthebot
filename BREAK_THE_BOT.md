@@ -94,5 +94,14 @@ The Elastic Arithmetic result shows that LLMs are trained to be so "helpful" tha
 ---
 
 ## 📸 Evidence Screenshots
-![Example 1](link-to-your-screenshot-1.png)
-![Example 2](link-to-your-screenshot-2.png)
+![Example 1](1.png)
+![Example 2](2.png)
+![Example 3](3.png)
+![Example 4](4.png)
+![Example 4](5.png)
+![Example 5](6.png)
+![Example 5](7.png)
+
+
+
+
